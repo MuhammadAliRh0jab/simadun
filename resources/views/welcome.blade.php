@@ -1,0 +1,1 @@
+{{ Auth::guard('dosen')->user()->role }}
